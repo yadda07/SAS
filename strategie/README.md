@@ -5,6 +5,10 @@ Chaque IA lit les mêmes documents, répond dans le même format, et le fondateu
 
 ## Fichiers
 
+> **Ce dépôt est public.** Les documents de travail ci-dessous ne sont pas versionnés ici
+> tant qu'il n'est pas passé en privé : ils contiennent une analyse de risques qui n'a pas
+> vocation à être publiée. Ils sont conservés hors dépôt par le fondateur.
+
 | Fichier | Rôle |
 |---|---|
 | `01-avis-claude.md` | Stratégie recommandée par Claude (document de référence à challenger) |
